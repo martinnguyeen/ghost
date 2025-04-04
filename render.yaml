@@ -21,6 +21,6 @@ services:
       - key: database__connection__user
         value: postgres
       - key: database__connection__password
-        value: ditt_supabase_passord  # ← sett inn passordet ditt her
+        value: C5KmtauUH6CnDwYS # ← sett inn passordet ditt her
       - key: url
         value: https://ghost-8hj6.onrender.com  # ← din Render-URL
